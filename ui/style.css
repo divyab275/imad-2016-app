@@ -13,10 +13,15 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .img-medium {
     height: 100px;
 }
-
+#cul
+{
+    height: 100px;
+    width: 50px;
+    display:inline-block;
+}
