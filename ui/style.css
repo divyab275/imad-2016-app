@@ -12,7 +12,7 @@ body {
 }
 .mine
 {
-    height:70%;
+    height:200px;
     width:80%;
     background-color:#4aa02c;
     float: right;
@@ -42,6 +42,6 @@ p
 ass
 {
     color: #800517;
-    font-family: cursive;
+    font-family: Comic Sana MS;
     font-size: 50px
 }
