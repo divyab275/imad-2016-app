@@ -1,7 +1,7 @@
 body {
     
     background-color: lightgrey;
-    margin-top: 75px;
+    
 }
 
 
@@ -27,8 +27,9 @@ body {
 {
     height:50px;
     width:97.5%;
+    
     background-color: #8e35ef;
-    size: 50px;
+    size: 100px;
     color: green;
     
 }
