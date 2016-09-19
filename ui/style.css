@@ -1,27 +1,44 @@
 body {
-    font-family: cursive;
+    
     background-color: lightgrey;
     margin-top: 75px;
 }
 
-.center {
-    text-align: center;
-}
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bolder;
-}
 
 .img-medium {
-    height: 100px;
+    float: left;
+}
+.mine
+{
+    height:70%;
+    width:50%;
+    background-color:#4aa02c;
+    float: right;
 }
 #cul
 {
     height: 100px;
     width: 50px;
     display:inline-block;
+}
+.head
+{
+    height:50px;
+    width:97.5%;
+    background-color: #8e35ef;
+    size: 50px;
+    color: green;
+    
+}
+p
+{
+    font-family: Comic Sana MS;
+    color:#4ee2ec;
+    size:12px;
+}
+ass
+{
+    color: #800517;
+    font-family: cursive;
+    size: 20px
 }
