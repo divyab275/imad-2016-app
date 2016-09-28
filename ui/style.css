@@ -54,3 +54,8 @@ li
     padding-left: 20px;
     padding-right: 20px;
 }
+span
+{
+    color: red;
+    font-family: sans-serif;
+}
