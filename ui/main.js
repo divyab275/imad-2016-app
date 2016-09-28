@@ -1,4 +1,4 @@
-var img= document.getElementById('onam');
-img.onclick= function() {
-    img.style.marginLeft= '100px';
+var image= document.getElementById('onam');
+image.onclick= function() {
+    image.style.marginLeft= '100px';
 };
