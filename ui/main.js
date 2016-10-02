@@ -1,4 +1,7 @@
-var image= document.getElementById('onam');
-image.onclick= function() {
-    image.style.marginLeft= '100px';
+var button=document.getElementbyId('counter');
+var counter=0;
+button.onclick=function(){
+  counter=counter+1;
+  var span=document.getElementbyId('count');
+  span.innerHTML=counter.toString();
 };
