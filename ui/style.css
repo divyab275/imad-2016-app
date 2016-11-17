@@ -1,65 +1,24 @@
-body {
-    
-    background-color: lightgrey;
-    
-}
-
-
-.img-medium {
-    float: left;
-    height:200px;
-    width:20%;
-}
-.mine
+.table1
 {
-    height:200px;
-    width:80%;
-    background-color:#4aa02c;
-    float: right;
+    display: table;
+    width: 100%;
+    border: 1px dotted black;
 }
-#cul
+.table1-row1
 {
-    height: 100px;
-    width: 50px;
-    display:inline-block;
+    display: table-row;
+    height: 20%;
+    border: 1px dotted black;
 }
-.head
+.Table1-col1
 {
-    height:70px;
-    width:100%;
-    
-    background-color: #8e35ef;
-    font-size: 60px;
-    color: #c11b17;
-    
+    display: table-cell;
+    border:1 px dotted black;
+    line-height: 30px;
+    text-align: center;
 }
-li
+.Table-col2
 {
-    font-family: Comic Sana MS;
-    color:#4ee2ec;
-    font-size:20px;
-}
-#ass
-{
-    color: #800517;
-    font-family: Comic Sana MS;
-    font-size: 40px;
-}
-.headers
-{
-    font-family: cursive;
-    padding-top:60px;
-    color: grey;
-    padding-left: 20px;
-    padding-right: 20px;
-}
-span
-{
-    color: red;
-    font-family: sans-serif;
-}
-#onam
-{
-    height: 200px;
-    width: 200px;
+    display: table-cell;
+    width:30%;
 }
