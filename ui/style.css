@@ -25,4 +25,9 @@
 html
 {
     background:url(http://www.hdwallpapers.in/thumbs/2016/purple_crocus_flowers-t2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
 }
