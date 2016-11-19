@@ -2,32 +2,45 @@
 {
     display: table;
     width: 100%;
-    border: 1px dotted black;
-}
-.table1-row1
-{
-    display: table-row;
-    height: 20%;
-    border: 1px dotted black;
-}
-.Table1col1
-{
-    display: table-cell;
-    border:1 px dotted black;
-    line-height: 30px;
+    height:30%;
+    background-color:blue;
     text-align: center;
+    font-family:Comic Sana MS;
+    font-size: 30px;
+    color: grey;
 }
-.Tablecol2
+.table2
+{
+    display: table;
+    height: 10%;
+    border: 1px dotted black;
+    background-color:green;
+}
+.row1
+{
+    display:table-row;
+}
+.col
 {
     display: table-cell;
-    width:30%;
+    text-align: center;
+    color:white;
+    width:14%;
 }
-html
+.table3
 {
-    background:url(http://www.hdwallpapers.in/thumbs/2016/purple_crocus_flowers-t2.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    
+    display:table;
+}
+.row2
+{
+    display:table-row;
+    background-color:yellow;
+    height:10%;
+}
+.col2
+{
+    display: table-cell;
+    width:14%;
+    text-align:center;
+    color:white;
 }
