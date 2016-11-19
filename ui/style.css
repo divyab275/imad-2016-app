@@ -2,17 +2,17 @@
 {
     display: table;
     width: 50%;
-    height:30%;
+    height:40%;
     background-color:blue;
     text-align: center;
-    font-family:Comic Sana MS;
+    font-family:"Comic Sana MS";
     font-size: 30px;
     color: grey;
 }
 .table2
 {
     display: table;
-    height: 10%;
+    height: 20%;
     width:50%;
     border: 1px dotted black;
     background-color:green;
@@ -36,7 +36,7 @@
 .row2
 {
     display:table-row;
-    background-color:yellow;
+    background-color:#8eafe5;
     height:10%;
 }
 .col2
