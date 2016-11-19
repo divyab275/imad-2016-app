@@ -1,7 +1,7 @@
 .table1
 {
     display: table;
-    width: 100%;
+    width: 50%;
     height:30%;
     background-color:blue;
     text-align: center;
@@ -13,6 +13,7 @@
 {
     display: table;
     height: 10%;
+    width:50%;
     border: 1px dotted black;
     background-color:green;
 }
@@ -30,6 +31,7 @@
 .table3
 {
     display:table;
+    width:50%;
 }
 .row2
 {
